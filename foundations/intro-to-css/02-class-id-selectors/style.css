@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.odd{
+    background-color: rgb(192, 94, 123);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#avs{
+    color: rgb(3, 70, 70);
+    font-size: 36px;
+}
+
+.different{
+    font-size: 24px;
+}
+
+#avd{
+    background-color: rgb(98, 190, 95);
+    font-weight: 700;
+}
